@@ -1,3 +1,3 @@
 # wedding
 
-My wedding e-card 
+My wedding e-card
