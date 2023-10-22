@@ -136,7 +136,7 @@ p {
     font-size: 20px;
     text-align: center;
     margin: -.75rem auto 0;
-    white-space: wrap;
+    white-space: normal;
 }
 
 b,
