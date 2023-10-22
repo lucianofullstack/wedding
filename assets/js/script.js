@@ -5,7 +5,6 @@ let saveTheDate = "Mar 10, 2022 10:00:00"
 // play button
 
 let content = document.getElementById("content")
-content.style.display = "none";
 let button = document.getElementById("button");
 let media = document.getElementById("player");
 
