@@ -1,3 +1,5 @@
 # wedding
 
-My wedding e-card
+# My wedding e-card
+
+<img src="readme.gif" alt="petals falling over couple">
